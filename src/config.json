@@ -1,0 +1,14 @@
+{
+	"port": 8080,
+	"bodyLimit": "100000kb",
+	"corsHeaders": ["Link"],
+	"projectName": "nodejsi4y64",
+	"dbConnection": {
+		"dbtype": "mysql",
+		"database": "nodejsi4y64",
+		"username": "root",
+		"password": "m07171117"
+	},
+	"sessionSecret": "xiezn",
+	"jwtSecret": "xiezn"
+}
